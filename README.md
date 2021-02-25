@@ -1,1 +1,1 @@
-# 24-7 Discord Music Bot
+# 24/7Discord Music Bot
